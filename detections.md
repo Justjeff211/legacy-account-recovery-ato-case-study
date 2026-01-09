@@ -1,4 +1,4 @@
-# SOC Detection Rules – Account Recovery Abuse
+# SOC Detection Rules: Account Recovery Abuse
 
 ## Rule 1: Excessive Account Recovery Attempts
 Condition:
