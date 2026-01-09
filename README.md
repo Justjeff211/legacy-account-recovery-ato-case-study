@@ -147,3 +147,7 @@ This project demonstrates:
 - Real-world breach understanding
 
 This reflects the type of identity-based threats SOC analysts defend against daily.
+
+## Project Files
+- [Detections](detections.md)
+- [References](references.md)
