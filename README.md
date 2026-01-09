@@ -1,4 +1,4 @@
-# legacy-account-recovery-ato-case-study
+# Legacy Account Recovery ATO Case Study
 SOC case study analyzing how legacy account recovery mechanisms enable Account Takeover (ATO), inspired by the 2013 iCloud breach. Includes threat modeling, MITRE ATT&CK mapping
  and SOC detection rules.
 ## A SOC Case Study on Identity-Based Attacks
